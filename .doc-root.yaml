@@ -3,4 +3,5 @@ optionalCategoryIndex: true
 supportedLanguages: []
 syntax: XML
 properties: []
-style: blue-purple
+style: orange-green
+description: Полезные статьи по работе с TSLab и TSVerse
