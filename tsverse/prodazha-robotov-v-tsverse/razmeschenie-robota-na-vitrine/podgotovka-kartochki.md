@@ -5,21 +5,21 @@ title: "Часть 1: Подготовка карточки товара"
 
 ## Содержание
 
-1. [Введение](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#введение)
+1. [Введение](./podgotovka-kartochki#введение)
 
-2. [Создание карточки товара](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#создание-карточки-товара)
+2. [Создание карточки товара](./podgotovka-kartochki#создание-карточки-товара)
 
-3. [Загрузка первой версии робота](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#загрузка-первой-версии-робота)
+3. [Загрузка первой версии робота](./podgotovka-kartochki#загрузка-первой-версии-робота)
 
-4. [Настройка параметров](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#настройка-параметров)
+4. [Настройка параметров](./podgotovka-kartochki#настройка-параметров)
 
-5. [Оформление описания](./razmeschenie-torgovogo-robota-na-vitrine-tsverse)
+5. [Оформление описания](./podgotovka-kartochki)
 
-6. [Справочная информация для робота](./razmeschenie-torgovogo-robota-na-vitrine-tsverse)
+6. [Справочная информация для робота](./podgotovka-kartochki)
 
-7. [Завершение подготовки](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#завершение-подготовки)
+7. [Завершение подготовки](./podgotovka-kartochki#завершение-подготовки)
 
-8. [Итоги](./razmeschenie-torgovogo-robota-na-vitrine-tsverse#итоги-первой-части)
+8. [Итоги](./podgotovka-kartochki#итоги-первой-части)
 
 ---
 
@@ -384,6 +384,8 @@ title: "Часть 1: Подготовка карточки товара"
 -  **Уровень риска** -- низкий, средний, высокий
 
 Эти данные помогут покупателям быстрее найти подходящую стратегию в каталоге.
+
+
 
 ---
 
