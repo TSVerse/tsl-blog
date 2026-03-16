@@ -11,10 +11,16 @@ title: Создаём индикатор и стратегию с помощью
 
 ⚠️ Важно: перед тем как работать с нейросетью, сделайте копии своих боевых скриптов. Также имейте в виду: нейросеть может удалять и изменять файлы на жёстком диске, если её об этом попросить.
 
-Промпт, который используется в примере:  [Linear Regression Based Volume Profile.md](<./Linear Regression Based Volume Profile>)
+Промпт, который используется в примере: 
+
+-  [Linear Regression Based Volume Profile.md](<./Linear Regression Based Volume Profile.md>)
+
+YuuTube:
 
 <video path="https://youtu.be/pYArUzTHKuI"/>
 
 
+
+Rutube:
 
 <video path="https://rutube.ru/video/3c90a925e156c1ef9a6177c81a8aa664/"/>
