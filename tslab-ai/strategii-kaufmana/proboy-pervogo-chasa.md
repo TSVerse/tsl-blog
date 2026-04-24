@@ -272,3 +272,5 @@ AI/KaufmanStrategies/TSM 1st Hour Breakout (S)
 Материалы:
 
 [скрипт](<https://api.tslab.pro/tsstore/download/1st Hour Breakout /script/ru-RU>)   (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
+
+[TSM 1st Hour Breakout (S).tscript](<TSM 1st Hour Breakout (S).tscript>)
