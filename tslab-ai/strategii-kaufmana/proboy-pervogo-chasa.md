@@ -17,7 +17,7 @@ TSM 1st Hour Breakout (S)
 
 -  Адаптация идеи: M. McNutt, `First Hour Breakout System`, Technical Analysis of Stocks & Commodities, July 1994
 
--  Исходный файл проекта: `TSM 1st Hour Breakout (S).txt`
+-  Исходный файл проекта: `TSM 1st Hour Breakout (S)`
 
 ## 3\. Краткая идея стратегии
 
@@ -271,4 +271,4 @@ AI/KaufmanStrategies/TSM 1st Hour Breakout (S)
 
 Материалы:
 
- [скрипт](<https://api.tslab.pro/tsstore/download/1st Hour Breakout /script/ru-RU>)   (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
+[скрипт](<https://api.tslab.pro/tsstore/download/1st Hour Breakout /script/ru-RU>)   (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
