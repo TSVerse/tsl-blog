@@ -249,10 +249,37 @@ TSM Dynamic Breakout-Volatility System
 
 -  [KaufmanAdaptiveSMA](https://github.com/nagvalru/TSLab-Indicators)
 
-Материалы:
+## Загрузка скрипта в программу
 
-DLL индикаторов, скачайте файл с [github ](https://github.com/nagvalru/TSLab-Indicators)Положите в папку Handlers.
+Скрипт использует пользовательские индикаторы, которых нет в стандартной поставке TSLab. Перед загрузкой скрипта установите дополнительную библиотеку.
 
-скрипт <https://api.tslab.pro/tsstore/download/Dynamic> Breakout-Volatility System/script/en-US.tscript  (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
+### Установка дополнительных индикаторов
 
-[Dynamic Breakout-Volatility System.tscript](<Dynamic Breakout-Volatility System.tscript>)
+1. Скачайте файл `TSLabIndicators.dll` из папки `dist` в репозитории [TSLab Indicators](https://github.com/nagvalru/TSLab-Indicators).
+
+2. Откройте TSLab. Перейдите в **Файл** -> **Настройки программы** -> **Пути к папкам**. Найдите параметр **Путь к доп.библиотекам обработчиков** -- это путь к папке `Handlers`.
+
+3. Откройте эту папку в проводнике Windows и скопируйте в неё файл `TSLabIndicators.dll`.
+
+4. Перезапустите TSLab.
+
+### Способ 1. Загрузка с сервера
+
+1. Откройте **Лаб** -> **Скрипты**.
+
+2. На боковой панели нажмите **Загрузить скрипт с сервера**.
+
+3. В дереве папок раскройте **Академия TSLab** -> **Примеры скриптов Kaufman**. Выберите скрипт **Динамическая система пробоя на основе волатильности** и нажмите **Download**.
+
+![](./dinamicheskaya-sistema-proboev-na-osnove-volatiln.png){width=1153px height=677px}
+
+### Способ 2. Загрузка из файла
+
+1. Скачайте файл скрипта: [Dynamic Breakout-Volatility System.tscript](<Dynamic Breakout-Volatility System.tscript>)
+
+2. Откройте **Лаб** -> **Скрипты**.
+
+3. На боковой панели нажмите **Загрузить из файла** и выберите скачанный файл.
+
+Скрипт появится в списке окна **Скрипты**.
+
