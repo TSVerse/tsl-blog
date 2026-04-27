@@ -15,7 +15,7 @@ TSM Dynamic Breakout-Volatility System
 
 -  Автор идеи: Перри Кауфман
 
--  Исходный материал: `TSM Dynamic Breakout-Volatility System (S).txt`
+-  Исходный материал: `TSM Dynamic Breakout-Volatility System (S)`
 
 ## 3\. Краткая идея стратегии
 
