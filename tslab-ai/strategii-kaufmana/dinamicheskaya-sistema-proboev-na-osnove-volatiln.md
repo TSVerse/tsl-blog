@@ -179,7 +179,7 @@ TSM Dynamic Breakout-Volatility System
 
 Общий проектный подход к риску вынесен отдельно:
 
-\[Расчет риска\](C:\\Users\\TSLab\\Desktop\\ai-agent\\KaufmanStrategies\\Стратегии\\Расчет [риска.md](http://риска.md))
+\[Расчет риска\](C:\\Users\\TSLab\\Desktop\\ai-agent\\KaufmanStrategies\\Стратегии\\Расчет риска.md)
 
 ## 12\. Используемые индикаторы и параметры
 
@@ -255,8 +255,8 @@ TSM Dynamic Breakout-Volatility System
 
 Материалы:
 
-DLL индикаторов, скачайте файл с [github ](https://github.com/nagvalru/TSLab-Indicators)Положите в папку Handlers. 
+DLL индикаторов, скачайте файл с [github ](https://github.com/nagvalru/TSLab-Indicators)Положите в папку Handlers.
 
- скрипт <https://api.tslab.pro/tsstore/download/Dynamic> Breakout-Volatility System/script/en-US.tscript  (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
+скрипт <https://api.tslab.pro/tsstore/download/Dynamic> Breakout-Volatility System/script/en-US.tscript  (Скачайте файл. Откройте в программе TSLab "Лаб" -> "Управление скриптами" -> Нажмите кнопку "Загрузить из файла").
 
 [Dynamic Breakout-Volatility System.tscript](<Dynamic Breakout-Volatility System.tscript>)

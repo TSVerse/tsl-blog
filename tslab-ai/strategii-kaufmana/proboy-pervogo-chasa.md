@@ -167,7 +167,7 @@ Low <= shortExitLevel
 
 Общий проектный подход к риску описан отдельно:
 
-\[Расчет риска\](C:\\Users\\TSLab\\Desktop\\ai-agent\\KaufmanStrategies\\Стратегии\\Расчет [риска.md](http://риска.md))
+\[Расчет риска\](C:\\Users\\TSLab\\Desktop\\ai-agent\\KaufmanStrategies\\Стратегии\\Расчет риска.md)
 
 ## 12\. Используемые индикаторы и параметры
 
