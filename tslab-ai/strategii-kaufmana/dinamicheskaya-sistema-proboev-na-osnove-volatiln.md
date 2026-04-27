@@ -3,6 +3,12 @@ order: 2
 title: Динамическая система пробоя на основе волатильности
 ---
 
+## Смотреть видео
+
+-  **YouTube:** <https://youtu.be/ufnmTSYuisU>
+
+-  **RuTube:** <https://rutube.ru/video/5bd87aa6ce0b5f9ddc299068d6e59fb3/>
+
 TSM Dynamic Breakout-Volatility System
 
 ## 1\. Название стратегии
@@ -282,4 +288,3 @@ TSM Dynamic Breakout-Volatility System
 3. На боковой панели нажмите **Загрузить из файла** и выберите скачанный файл.
 
 Скрипт появится в списке окна **Скрипты**.
-

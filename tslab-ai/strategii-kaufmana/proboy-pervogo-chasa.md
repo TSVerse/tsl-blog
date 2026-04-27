@@ -3,6 +3,14 @@ order: 1
 title: Пробой первого часа
 ---
 
+## Смотреть видео
+
+-  **YouTube:** <https://youtu.be/ufnmTSYuisU>
+
+-  **RuTube:** <https://rutube.ru/video/5bd87aa6ce0b5f9ddc299068d6e59fb3/>
+
+
+
 TSM 1st Hour Breakout (S)
 
 ## 1\. Название стратегии
