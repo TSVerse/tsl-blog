@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 0.1
 title: Знакомство с TSLab 3.0 Beta
 ---
 

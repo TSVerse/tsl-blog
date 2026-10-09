@@ -5,7 +5,7 @@ title: Работа с поставщиками данных в TSLab 3.0
 
 ## Содержание
 
--  [Поставщики после миграции из TSLab 2.2](./rabota-s-postavschikami-dannykh-v-tslab-3-0.md#поставщики-после-миграции-из-tslab-2#поставщики-после-миграции-из-tslab-2.2)
+-  [Поставщики после миграции из TSLab 2.2](./rabota-s-postavschikami-dannykh-v-tslab-3-0#поставщики-после-миграции-из-tslab-2#поставщики-после-миграции-из-tslab-2.2)
 
 -  [Создание нового поставщика данных](./rabota-s-postavschikami-dannykh-v-tslab-3-0#создание-нового-поставщика-данных)
 
@@ -183,9 +183,9 @@ title: Работа с поставщиками данных в TSLab 3.0
 
    <image src="./rabota-s-postavschikami-dannykh-v-tslab-3-12.png" crop="0,0,100,100" scale="83" width="874px" height="415px" float="center"/>
 
-3.  Выберите вкладку **Из существующего контракта**
+3. Выберите вкладку **Из существующего контракта**
 
-   <image src="./rabota-s-postavschikami-dannykh-v-tslab-3-13.png" crop="0,0,100,100" scale="82" width="797px" height="452px" float="center"/>
+<image src="./rabota-s-postavschikami-dannykh-v-tslab-3-13.png" crop="0,0,100,100" scale="82" width="797px" height="452px" float="center"/>
 
 4. В списке найдите созданый контракт. Раскройте список поставщиков данных, которые можно создать из этого контракта. Для примера выберем ByBit USDT Perpetual. Нажмите **Далее**
 

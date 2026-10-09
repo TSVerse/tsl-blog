@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 0.5
 title: Управление учётными записями
 ---
 
@@ -29,7 +29,7 @@ title: Управление учётными записями
 
 -  Виртуальный кошелёк TSVerse, с которого списывается оплата за услуги
 
-Подробнее о системе подписок читайте в статье: [Сервис TSVerse. Новая система подписок](./znakomstvo-s-tslab-3-0-beta/servis-tsverse-novaya-sistema-podpisok)
+Подробнее о системе подписок читайте в статье: [Сервис TSVerse. Новая система подписок](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/servis-tsverse-novaya-sistema-podpisok)
 
 ---
 
@@ -51,7 +51,7 @@ title: Управление учётными записями
 
 ### Миграция данных из TSLab 2.2
 
-Если вы переходите с TSLab 2.2, программа автоматически предложит перенести ваши скрипты, агенты и настройки. Подробная инструкция: [Установка TSLab 3.0 и миграция данных](./znakomstvo-s-tslab-3-0-beta/ustanovka-tslab-3-0-i-migraciya-dannykh)
+Если вы переходите с TSLab 2.2, программа автоматически предложит перенести ваши скрипты, агенты и настройки. Подробная инструкция: [Установка TSLab 3.0 и миграция данных](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/ustanovka-tslab-3-0-i-migraciya-dannykh)
 
 ---
 
@@ -227,15 +227,15 @@ TSLab 3.0 позволяет работать в автономном режим
 
 Чтобы вам было проще разобраться в обновлённом интерфейсе и новых возможностях, рекомендуем изучить эти статьи:
 
-1️⃣ [Знакомство с TSLab 3.0 Beta](./znakomstvo-s-tslab-3-0-beta/_index)
+1️⃣ [Знакомство с TSLab 3.0 Beta](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/_index)
 
-2️⃣ [Сервис TSVerse. Новая система подписок](./znakomstvo-s-tslab-3-0-beta/servis-tsverse-novaya-sistema-podpisok)
+2️⃣ [Сервис TSVerse. Новая система подписок](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/servis-tsverse-novaya-sistema-podpisok)
 
-3️⃣ [Установка TSLab 3.0 и миграция данных](./znakomstvo-s-tslab-3-0-beta/ustanovka-tslab-3-0-i-migraciya-dannykh)
+3️⃣ [Установка TSLab 3.0 и миграция данных](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/ustanovka-tslab-3-0-i-migraciya-dannykh)
 
-4️⃣ [Работа с поставщиками данных в TSLab 3.0](./znakomstvo-s-tslab-3-0-beta/rabota-s-postavschikami-dannykh-v-tslab-3-0)
+4️⃣ [Работа с поставщиками данных в TSLab 3.0](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/rabota-s-postavschikami-dannykh-v-tslab-3-0)
 
-5️⃣ [Обновлённое окно Агенты в TSLab 3.0](./znakomstvo-s-tslab-3-0-beta/obnovlennoe-okno-agenty-v-tslab-3-0)
+5️⃣ [Обновлённое окно Агенты в TSLab 3.0](./../tslab-3-0-beta/znakomstvo-s-tslab-3-0-beta/obnovlennoe-okno-agenty-v-tslab-3-0)
 
 ## Обратная связь
 
